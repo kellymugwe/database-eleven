@@ -1,0 +1,1 @@
+SELECT * FROM dataweeks.netflix_titles;
